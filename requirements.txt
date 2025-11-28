@@ -1,0 +1,14 @@
+numpy==2.0.2
+pandas==2.3.0
+requests==2.32.4
+tqdm==4.67.1
+scikit-image==0.24.0
+scipy==1.13.1
+simpleitk==2.5.2
+tifffile==2024.8.30
+torch==2.7.1
+torchvision==0.22.1
+torchinfo==1.8.0
+git+https://github.com/RTLucassen/annotation_tool
+git+https://github.com/RTLucassen/slideloader@ccbf4c55eb76333e502c6c714a4b1677600bde1c
+git+https://github.com/RTLucassen/slidesegmenter@757c9d002d22754d4efde12570cb49765d039004
