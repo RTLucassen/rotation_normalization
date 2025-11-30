@@ -5,6 +5,10 @@ This repository contains all code to support the paper:
 
 The paper is currently under review.
 
+<div align="center">
+  <img width="100%" alt="Method" src=".github\examples.gif">
+</div>
+
 ## Contents
 The repository contains two folders:
 - `dataset_curation` contains all python files that were used for annotation and preprocessing of the dataset.
