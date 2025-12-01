@@ -12,4 +12,5 @@ The paper is currently under review.
 ## Contents
 The repository contains two folders:
 - `dataset_curation` contains all python files that were used for annotation and preprocessing of the dataset.
-- `model` contains all python files that were used for training and evaluation of the different rotation angle prediction approaches.
+- `models` contains all python files that were used for training and evaluation of the different rotation angle prediction approaches.
+  - Parameters for the rotation angle prediction models trained as part of this project are available from the corresponding [HuggingFace repository](https://huggingface.co/RTLucassen/orientation_normalization).
